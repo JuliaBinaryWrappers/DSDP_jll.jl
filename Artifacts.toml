@@ -1,0 +1,143 @@
+[[DSDP]]
+arch = "aarch64"
+git-tree-sha1 = "17602a57517df9d33c4f48d3d59a072835ec5826"
+os = "macos"
+
+    [[DSDP.download]]
+    sha256 = "a571411c23caa59cac477d4f429bc091c6e5b183a354851f0c003cce8f2cf536"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.aarch64-apple-darwin.tar.gz"
+[[DSDP]]
+arch = "aarch64"
+git-tree-sha1 = "9fdfca338cc88cfb06d5b7d00cc047ce1e6b6165"
+libc = "glibc"
+os = "linux"
+
+    [[DSDP.download]]
+    sha256 = "8d6c808ca720a6e3d89ea83a08780a785f0942343915bbd1e4444b8c04ba790e"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.aarch64-linux-gnu.tar.gz"
+[[DSDP]]
+arch = "aarch64"
+git-tree-sha1 = "694bf1b1158556e9b91c13756e6dea25f9435651"
+libc = "musl"
+os = "linux"
+
+    [[DSDP.download]]
+    sha256 = "3cabb5d0b7d34e5041873363dc98503841aab4783885d57138abac262708c178"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.aarch64-linux-musl.tar.gz"
+[[DSDP]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c20c7968c15ade0522c98ec3db97ab8b069d8a73"
+libc = "glibc"
+os = "linux"
+
+    [[DSDP.download]]
+    sha256 = "1b0f9aa96b22a2ff19dab0783fcd3df4ed1261cc83d025523a8d488ea98c1d78"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.armv6l-linux-gnueabihf.tar.gz"
+[[DSDP]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "56690140135ab907d0055ce8dfa742bb4e53ea7e"
+libc = "musl"
+os = "linux"
+
+    [[DSDP.download]]
+    sha256 = "3a9d0fae4ba724399dc8cdf37635c7ef169bce00f0988d7cc883d5e4fb64258b"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.armv6l-linux-musleabihf.tar.gz"
+[[DSDP]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1b9e49ef0a11e072d6275f6d6758585bbed07785"
+libc = "glibc"
+os = "linux"
+
+    [[DSDP.download]]
+    sha256 = "54892efe8f9b08eaa10318680352cac06d0eb2dbc29f28620ab735d181f5aab7"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.armv7l-linux-gnueabihf.tar.gz"
+[[DSDP]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "62040d2babc030051f5b7bb30802eac13c84c7bf"
+libc = "musl"
+os = "linux"
+
+    [[DSDP.download]]
+    sha256 = "3b5c8e0168b46227610e77f49f5802461bc67dd11aa91912b62dbfe37ff6caf5"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.armv7l-linux-musleabihf.tar.gz"
+[[DSDP]]
+arch = "i686"
+git-tree-sha1 = "332957b621932509eb24e7833de8ff1fb18dc305"
+libc = "glibc"
+os = "linux"
+
+    [[DSDP.download]]
+    sha256 = "53029a74ca49824beb970d1b4d382e774db65cc9c4d2fe6290276f5587fa4fef"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.i686-linux-gnu.tar.gz"
+[[DSDP]]
+arch = "i686"
+git-tree-sha1 = "d7b4d6da7be45d1104e50d2137e84e646dd785d5"
+libc = "musl"
+os = "linux"
+
+    [[DSDP.download]]
+    sha256 = "09ebb5a99dbfdea1a702df2fff91eb321798d6c2c1959fc6db45f8f5c6692f9b"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.i686-linux-musl.tar.gz"
+[[DSDP]]
+arch = "i686"
+git-tree-sha1 = "3f86343f731c408ae2305202c8de8ffd080b7c39"
+os = "windows"
+
+    [[DSDP.download]]
+    sha256 = "c9501215d350f9e68c4e652143158bb7ad26fe232093e690557c370aceb7c3de"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.i686-w64-mingw32.tar.gz"
+[[DSDP]]
+arch = "powerpc64le"
+git-tree-sha1 = "6a9fe1d6eab249d3c1e864cd043f93ddf6644e71"
+libc = "glibc"
+os = "linux"
+
+    [[DSDP.download]]
+    sha256 = "08bb681b09c328c2fbb3bd5608e904f4bfb8f5c37c476c78e4e6bb704e2ee349"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.powerpc64le-linux-gnu.tar.gz"
+[[DSDP]]
+arch = "x86_64"
+git-tree-sha1 = "af654fba53f300a815dba8a50e97989533614e53"
+os = "macos"
+
+    [[DSDP.download]]
+    sha256 = "92147e36e8aad6a7af7b86de1b8f60fd614561aae577b20644693e2d9bc7184b"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.x86_64-apple-darwin.tar.gz"
+[[DSDP]]
+arch = "x86_64"
+git-tree-sha1 = "f1c543802e56da7fa37d65810758970ab167c83b"
+libc = "glibc"
+os = "linux"
+
+    [[DSDP.download]]
+    sha256 = "a03883de12039cd8cf6742163bfb9ad8131aff73d160da5ab4d3187f6c183eb8"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.x86_64-linux-gnu.tar.gz"
+[[DSDP]]
+arch = "x86_64"
+git-tree-sha1 = "02328af9ce754e2730297f0d20782970282f176f"
+libc = "musl"
+os = "linux"
+
+    [[DSDP.download]]
+    sha256 = "35e59559d09792bedc473e09fb728a7125d4bb044d2a3b12a37baebe00e8459b"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.x86_64-linux-musl.tar.gz"
+[[DSDP]]
+arch = "x86_64"
+git-tree-sha1 = "73021e9cd43bd4a0fcb12d8708cd4406eb071570"
+os = "freebsd"
+
+    [[DSDP.download]]
+    sha256 = "37fab7c929c95587e95eac6381e4d6a67b10b640849ac0e1de6b93b195b4686e"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.x86_64-unknown-freebsd.tar.gz"
+[[DSDP]]
+arch = "x86_64"
+git-tree-sha1 = "6bf75a1fde279a3cdc1047d4ab9ebf247b8cb050"
+os = "windows"
+
+    [[DSDP.download]]
+    sha256 = "7df8223c69819cff7e1738fc260471b7e9301fb0a8010b3ebe6293fed1f84370"
+    url = "https://github.com/JuliaBinaryWrappers/DSDP_jll.jl/releases/download/DSDP-v0.0.1+0/DSDP.v0.0.1.x86_64-w64-mingw32.tar.gz"
